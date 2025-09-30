@@ -30,4 +30,4 @@ git clone https://github.com/keerv13/text-extractor.git
 * Extract & Sort Paragraphs
 
 ## Example Input/Output
-![image alt] (https://github.com/keerv13/text-extractor/blob/b3f92fcb05ac416638e2baff32b36222a2e7661f/outputsample.png)
+<img width="1334" height="679" alt="Image" src="https://github.com/user-attachments/assets/98ff6ab5-bc9b-4c26-8de7-1f8dd568a9d4" />
