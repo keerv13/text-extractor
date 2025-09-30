@@ -18,13 +18,13 @@ git clone https://github.com/keerv13/text-extractor.git
 * Place your document images in a folder named input_images/ or use existing doucments in input_images/.
 * Supported formats include .png, .jpg, .jpeg.
 4. Run the Script
-* Process All Images
-```python main.py```
-* Process a Single Image
-** Inside main.py, comment/uncomment the image path you want then run:
-```python main.py```
+* Option 1: Process All Images
+  * Run ```python main.py```
+* Option 2: Process a Single Image
+  * Inside main.py, comment/uncomment the image path you want then run:
+  ```python main.py```
 
-## key Features
+## Key Features
 * Remove tables
 * Remove images
 * Extract & Sort Paragraphs
